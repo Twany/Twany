@@ -1,4 +1,4 @@
-<!-- [![github-profile](https://mayandev.oss-cn-hangzhou.aliyuncs.com/uPic/github-profile.svg)](https://www.calligrapher.ai/) -->
+[![github-profile](https://raw.githubusercontent.com/Twany/picGoStore/master/helloi-am-twany.svg)](https://www.calligrapher.ai/)
 
 <!-- # 👋 Hey there -->
 
