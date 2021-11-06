@@ -15,12 +15,12 @@
 <!-- [Weibo](http://weibo.com/pc175) • [Twitter](https://twitter.com/jaywcjlove) • [E-Mail](mailto:wowohoo@qq.com) • [Sponsor](https://wangchujiang.com/sponsor.html) -->
 
 <div align="center">
-  <a href="https://wangchujiang.com/">
-<img width="60" style="border-radius: 100px;box-shadow:5px 5px 10px 5px #ccc;" height="60" src="https://raw.githubusercontent.com/Twany/picGoStore/master/67efa54dfa9d782e991ea50c4ac31a42_1.jpg" />
+  <a href="https://twany.github.io/">
+      <img width="60" style="border-radius: 100px;box-shadow:5px 5px 10px 5px #ccc;" height="60" src="https://raw.githubusercontent.com/Twany/picGoStore/master/67efa54dfa9d782e991ea50c4ac31a42_1.jpg" />
   </a>
   <br>
   <p>
-    <a href="http://weibo.com/pc175">
+<!--     <a href="http://weibo.com/pc175">
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/weibo.svg?sanitize=true" />
     </a>
     <a href="https://twitter.com/jaywcjlove">
@@ -28,7 +28,7 @@
     </a>
     <a href="mailto:wowohoo@qq.com">
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
-    </a>
+    </a> -->
   </p>
   <p>Hi, I'm Twany, Fullstack developer(unDone) from The International Village, China.</p>
   <p>
