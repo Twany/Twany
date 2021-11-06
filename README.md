@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://wangchujiang.com/">
-    <img width="60" height="60" src="https://raw.githubusercontent.com/Twany/picGoStore/master/67efa54dfa9d782e991ea50c4ac31a42_1.jpg" />
+<img width="60" style="border-radius: 100px;box-shadow:5px 5px 10px 5px #ccc;" height="60" src="https://raw.githubusercontent.com/Twany/picGoStore/master/67efa54dfa9d782e991ea50c4ac31a42_1.jpg" />
   </a>
   <br>
   <p>
